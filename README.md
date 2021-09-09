@@ -94,74 +94,55 @@ git clone
 ## **Deployment**
 #
 
-**Open Visual Studio Code**
-
-1. Open your local copy of the repo in Visual Studio Code.
-
-2. Create a new file in VacationPy folder and WeatherPy folder called "api_keys.py"
-
-3. In both api_keys.py files, enter the following lines of code:
-```
-weather_api_key = "<your OpenWeather API key goes here>"
-g_key = "<your Google API key goes here>"
-```
-4. Save these changes in Visual Studio Code.
-
-5. Open a Git Bash terminal from your repo file and enter the following code:
-```
-git add .
-```
-Press Enter
-```
-git commit -m "<your meaningful note about what you did goes here>"
-```
-Press Enter
-```
-git push origin main
-```
-Press Enter
-
-*You should now see both files on your local repo copy on your computer and your repo on GitHub.*
-
 **Open Jupyter Notebook**
 
 1. Open a Git Bash terminal from your repo file.
 
-2. In your Git Bash terminal, type the following code: `source activate PythonData`
-    * *(PythonData) should now be displayed in your Git Bash terminal.*
+2. In your Git Bash terminal, type the following code: 
+```
+source activate PythonData
+```
+* *(PythonData) should now be displayed in your Git Bash terminal.*
 
-3. In your Git Bash terminal, type the following code: `jupyter notebook`
-    * *You should now see a Jupyter Notebook tab open in your web browser.*
+
+3. In your Git Bash terminal, type the following code: 
+```
+jupyter notebook
+```
+* *You should now see a Jupyter Notebook tab open in your web browser.*
 
 # **Acknowledgments**
 #
-* I'd like to thank [Dominic LaBella](https://www.linkedin.com/in/dominiclabella/) for teaching me what I know about Python.
+* I'd like to thank [Dominic LaBella](https://www.linkedin.com/in/dominiclabella/), my instructor at the Data Visualization and Analytics Boot Camp I attended, for planting a seed in my brain that is the start of my computer programming knowledge and understanding. I work hard every day to grow that seed. None of this would be possible for me if not for his passion for teaching and deep understanding of these subjects.
 
 ## **Project Visuals**
 #
-![Images/heatmap.png](Images/heatmap.png)
+![](Images/Screenshot1.png)
 
-![Images/hotel_map.png](Images/hotel_map.png)
+![](Images/Screenshot2.png)
 
-![](WeatherPy/LatitudeVsCloudiness.png)
+![](Images/Screenshot3.png)
 
-![](WeatherPy/LatitudeVsCloudinessNRegress.png)
-![](WeatherPy/LatitudeVsCloudinessSRegress.png)
+![](Images/Screenshot4.png)
 
-![](WeatherPy/LatitudeVsHumidity.png)
+![](Images/Screenshot5.png)
 
-![](WeatherPy/LatitudeVsHumidityNRegress.png)
-![](WeatherPy/LatitudeVsHumiditySRegress.png)
+![](Images/Screenshot6.png)
 
-![](WeatherPy/LatitudeVsTemperature.png)
+![](Images/Screenshot7.png)
 
-![](WeatherPy/LatitudeVsTemperatureNRegress.png)
-![](WeatherPy/LatitudeVsTemperatureSRegress.png)
+![](Images/Screenshot8.png)
 
-![](WeatherPy/LatitudeVsWindspeed.png)
+![](Images/Screenshot9.png)
 
-![](WeatherPy/LatitudeVsWindspeedNRegress.png)
-![](WeatherPy/LatitudeVsWindspeedSRegress.png)
+![](Images/Screenshot10.png)
 
+![](Images/Screenshot11.png)
 
+![](Images/Screenshot12.png)
 
+![](Images/Screenshot13.png)
+
+![](Images/Screenshot14.png)
+
+![](Images/Screenshot15.png)
