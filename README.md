@@ -16,7 +16,7 @@ This repo is for the 30 Days of Machine Learning competition on Kaggle. We analy
 * GitHub Account
 
 * Python
-    * Libraries: pandas, numpy, sklearn, xgboost, and optuna
+    * Libraries: pandas, NumPy, scikit-learn, xgboost, and optuna
 
 * Git
 
@@ -64,8 +64,8 @@ conda install pip
 
 *Click the library name for instructions on how to download.*
 * [pandas](https://pandas.pydata.org/docs/getting_started/install.html)
-* [numpy](https://numpy.org/install/)  
-* [sklearn](https://scikit-learn.org/stable/install.html)
+* [NumPy](https://numpy.org/install/)  
+* [scikit-learn](https://scikit-learn.org/stable/install.html)
 * [xgboost](https://pypi.org/project/xgboost/)
 * [optuna](https://pypi.org/project/optuna/)
 
